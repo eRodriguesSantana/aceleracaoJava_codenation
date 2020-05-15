@@ -1,2 +1,5 @@
-# aceleracaoJava_codenation
-Desafios realizados na Aceleração Java da plataforma Codenation
+# Repositório com desafios que eu realizei durantre o meu período de aceleração pela Codenation
+
+## Códigos escritos em Java
+
+Treinamento imersivo de Java focado no lado backend
