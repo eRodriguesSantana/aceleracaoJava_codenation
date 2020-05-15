@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.SubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-28T21:54:42" hostname="dev" time="1.18">
+  <properties/>
+  <testcase name="q1" classname="challenge.SubmitTest" time="0.234"/>
+  <testcase name="q2" classname="challenge.SubmitTest" time="0.196"/>
+  <testcase name="q3" classname="challenge.SubmitTest" time="0.18"/>
+  <testcase name="q4" classname="challenge.SubmitTest" time="0.187"/>
+  <testcase name="q5" classname="challenge.SubmitTest" time="0.216"/>
+  <testcase name="q6" classname="challenge.SubmitTest" time="0.166"/>
+  <system-out><![CDATA[{16=18, 17=270, 18=682, 19=1088, 20=1252, 21=1275, 22=1324, 23=1395, 24=1321, 25=1515, 26=1199, 27=1153, 28=1053, 29=1127, 30=807, 31=666, 32=506, 33=610, 34=271, 35=188, 36=137, 37=69, 38=38, 39=18, 40=4, 41=3, 43=2, 44=2, 47=1}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
