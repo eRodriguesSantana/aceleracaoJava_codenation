@@ -2,4 +2,4 @@
 
 ## Códigos escritos em Java
 
-Treinamento imersivo de Java focado no lado backend
+Treinamento imersivo de Java.
